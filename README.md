@@ -4,8 +4,8 @@
 
 I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 
-- 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- ⚡ In my free time I solve problems on LeetCode and read tech articles.
+- 🔭 I’m working as a Software Engineer especially frontend for building web applications.
+- ⚡ In my free time I like to read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ariwijaya82-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ariwijaya82)
 
 ---
