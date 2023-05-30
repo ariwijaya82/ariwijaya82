@@ -7,7 +7,6 @@ I am a Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGB
 - 🔭 I’m working as a Software Engineer especially building web applications.
 - ⚡ In my free time I like to read tech articles.
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-ariwijaya82-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ariwijaya82)
-- 
 ---
 
 ### 🔥 &nbsp; My Stats :
